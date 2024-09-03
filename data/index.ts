@@ -93,36 +93,12 @@ export const projects = [
 
 export const experiences = [
   {
-    title: "Software Engineer II - Frontend",
-    company: "Livly.io",
-    img: "/livly.png",
-    year: "Nov, 2021",
-    companyLink: "https://www.livly.io/",
-    desc: "Building property management saas solution for the recidents living in United States and Canada."
-  },
-  {
-    title: "Frontend - sub coach",
-    company: "XenonStack",
+    title: "Coordinator",
+    company: "Google Developer Student Club",
     img: "/xs.jpeg",
-    year: "Aug, 2021",
-    companyLink: "https://www.xenonstack.com/",
-    desc: "I worked as a senior frontend developer and managed junior frontend developers, guiding them through their projects"
-  },
-  {
-    title: "UI developer",
-    company: "XenonStack",
-    img: "/xs.jpeg",
-    year: "Sep, 2020",
-    companyLink: "https://www.xenonstack.com/",
-    desc: "I specialize in efficient web technologies and JavaScript frameworks & libraries that work seamlessly across all platforms and browsers."
-  },
-  {
-    title: "Internship",
-    company: "XenonStack",
-    img: "/xs.jpeg",
-    year: "Jan, 2020",
-    companyLink: "https://www.xenonstack.com/",
-    desc: "I have worked extensively with frontend technologies, particularly focusing on React JS and Redux."
+    year: "June, 2023",
+    companyLink: "https://www.gdsc.dbit.in/#intro",
+    desc: "I have worked extensively, managed and helped organizing various events in the college."
   }
 ];
 
