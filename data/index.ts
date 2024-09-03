@@ -137,17 +137,17 @@ export const socialMedia = [
   {
     id: 1,
     img: "/git.svg",
-    cta: "https://github.com/kou25"
+    cta: "https://github.com/moink7"
   },
   {
     id: 2,
     img: "/twit.svg",
-    cta: "https://twitter.com/manna_Moin"
+    cta: "https://twitter.com/moink2004"
   },
   {
     id: 3,
     img: "/link.svg",
-    cta: "https://www.linkedin.com/in/Moinmanna25/"
+    cta: "https://www.linkedin.com/in/moin-khan-746a45276/"
   }
 ];
 
