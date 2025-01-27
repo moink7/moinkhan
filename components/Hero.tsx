@@ -1,5 +1,5 @@
 import { Spotlight } from "./ui/Spotlight";
-import linkednlnImage from "../public/linkedln.png";
+import linkednlnImage from "../public/linkedIn.png"
 import Image from "next/image";
 import { FlipWords } from "./ui/FlipWords";
 import ShootingStars from "./ui/ShootingStars";
