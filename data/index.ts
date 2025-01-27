@@ -93,10 +93,37 @@ export const projects = [
 
 export const experiences = [
   {
+    title: "Web Developer Intern",
+    company: "Polyline Engineers Pvt. Ltd",
+    img: "/xs.jpeg",
+    year: "Jan 2025 - Present",
+    companyLink: "",
+    desc: "Working on building frontend using ReactJS and Framer Motion for animations. Developing a backend architecture, ensuring high performance, scalability, and smooth data handling using modern frameworks and databases"
+  }
+  ,
+  {
+    title: "Webmaster",
+    company: "IEEE - Don Bosco Institute of Technology",
+    img: "/ieee.png",
+    year: "Jan 2025 - Present",
+    companyLink: "https://ieee.dbit.in/",
+    desc: "Maintaining and updating the IEEE website to ensure seamless functionality, performance, and user experience."
+  }
+    ,
+  {
+    title: "Fullstack Developer - Freelance",
+    company: "Annshub",
+    img: "/annshub.webp",
+    year: "July 2024 - Oct 2024 ",
+    companyLink: "",
+    desc: "Developed a fully functional Dating Website with User Authentication and an API for Age verification that connects to the admin panel."
+  }
+  ,
+  {
     title: "Coordinator",
     company: "Google Developer Student Club",
     img: "/xs.jpeg",
-    year: "June, 2023",
+    year: "June 2023",
     companyLink: "https://www.gdsc.dbit.in/#intro",
     desc: "I have worked extensively, managed and helped organizing various events in the college."
   }

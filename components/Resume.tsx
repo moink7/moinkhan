@@ -20,7 +20,7 @@ const Resume = () => {
           />
         </div>
         <a
-          href="https://drive.google.com/file/d/1uXYm4QCDpoGdt-FuBcv-T_i3_gEraSTX/view?usp=sharing"
+          href="https://drive.google.com/file/d/187dvNzLlof7XTYN2eRBamKg0wFF1nlM6/view?usp=sharing"
           target="_blank"
         >
           <MagicButton
