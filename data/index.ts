@@ -45,6 +45,13 @@ export const aboutItems = [
 ];
 
 export const projects = [
+    {
+    title: "Altas AI",
+    description:
+      "A website for Altas AI, an AI startup.",
+    link: "https://altas.co.in/",
+    img: "/altasweb.png"
+  },
   {
     title: "Ecom Dashboard",
     description:
@@ -80,23 +87,35 @@ export const projects = [
       "A Dice Game made for fun using react.",
     link: "https://dicegame-ten-topaz.vercel.app/",
     img: "/dicegame.png"
-  },
-  {
-    title: "Cooking more...",
-    description:
-      "A new project is getting cooked...",
-    link: "",
-    img: "/cooking.jpg"
   }
+
   
 ];
 
 export const experiences = [
   {
+    title: "Secretary",
+    company: "IEEE - Don Bosco Institute of Technology",
+    img: "/ieee.png",
+    year: "Dec 2025 - Present",
+    companyLink: "https://ieee.dbit.in/",
+    desc: "As the Secretary of the IEEE Student Branch at Don Bosco Institute of Technology, I am responsible for managing communications, organizing meetings, and maintaining records. I play a key role in coordinating events and activities that promote professional development and technical knowledge among members."
+  }
+  ,
+  {
+    title: "Co-Founder",
+    company: "AltasAI",
+    img: "/altas.jpg",
+    year: "March 2025 - Present",
+    companyLink: "https://altas.co.in/",
+    desc: "Co-founding AltasAI, an innovative startup focused on developing cutting-edge AI solutions to revolutionize various industries. Leading the technical team in building scalable AI applications that address real-world challenges and drive business growth."
+  }
+  ,
+  {
     title: "Web Developer Intern",
     company: "Polyline Engineers Pvt. Ltd",
     img: "/xs.jpeg",
-    year: "Jan 2025 - Present",
+    year: "Jan 2025 - June 2025",
     companyLink: "",
     desc: "Working on building frontend using ReactJS and Framer Motion for animations. Developing a backend architecture, ensuring high performance, scalability, and smooth data handling using modern frameworks and databases"
   }
@@ -105,7 +124,7 @@ export const experiences = [
     title: "Webmaster",
     company: "IEEE - Don Bosco Institute of Technology",
     img: "/ieee.png",
-    year: "Jan 2025 - Present",
+    year: "Jan 2025 - Dec 2025",
     companyLink: "https://ieee.dbit.in/",
     desc: "Maintaining and updating the IEEE website to ensure seamless functionality, performance, and user experience."
   }

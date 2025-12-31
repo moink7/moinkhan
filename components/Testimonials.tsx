@@ -10,7 +10,7 @@ const Testimonials = () => {
           <p className="text-3xl md:text-5xl font-semibold text-center textGradient-3">
             Kind words from my teammates & clients
           </p>
-        </div>A
+        </div>
         <div className="h-auto max-h-[40rem] rounded-md flex flex-col antialiased bg-white dark:bg-transparent items-center justify-center relative overflow-hidden">
           <InfiniteMovingCards
             items={testimonials}
